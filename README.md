@@ -1,6 +1,8 @@
-# Welcome to React Router!
+# cloudflare-react-router
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Cloudflare Workers で React Router v7 SPA が動作するか検証する → 動作した ✨
+
+https://cloudflare-react-router.rabby-coffee-c5.workers.dev/products
 
 ## Features
 
